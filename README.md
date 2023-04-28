@@ -1,3 +1,5 @@
+This repository is now hosted on [Forgejo](https://git.van-hemmen.com/GuillaumeHemmen/checkstyle-docker)
+
 # checkstyle-docker
 Docker image for running checkstyle
 
